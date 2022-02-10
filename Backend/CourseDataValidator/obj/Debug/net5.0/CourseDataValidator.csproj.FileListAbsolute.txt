@@ -1,0 +1,17 @@
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.csproj.AssemblyReference.cache
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.AssemblyInfoInputs.cache
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.AssemblyInfo.cs
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.csproj.CoreCompileInputs.cache
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\CourseDataValidator.deps.json
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\CourseDataValidator.dll
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\ref\CourseDataValidator.dll
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\CourseDataValidator.pdb
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\CourseDtos.dll
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\CourseModels.dll
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\CourseDtos.pdb
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\bin\Debug\net5.0\CourseModels.pdb
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.csproj.CopyComplete
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.dll
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\ref\CourseDataValidator.dll
+C:\lz\Training\CourseWeb\Backend\CourseDataValidator\obj\Debug\net5.0\CourseDataValidator.pdb

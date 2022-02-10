@@ -1,0 +1,74 @@
+{
+  "name": "courseapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styled-engine-sc": "^5.0.0-beta.5",
+    "@material-ui/styles": "^4.11.4",
+    "@mui/material": "^5.2.1",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "formik": "^2.2.9",
+    "http-proxy-middleware": "^2.0.2",
+    "notistack": "^2.0.3",
+    "react": "^17.0.2",
+    "react-cookies": "^0.1.1",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-test-renderer": "^17.0.2",
+    "renderer": "^0.1.5",
+    "style-components": "^0.1.0",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.0.1",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/react-hooks": "^7.0.2",
+    "@types/react-cookies": "^0.1.0",
+    "@types/react-router-dom": "^5.3.2",
+    "@types/react-test-renderer": "^17.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "cypress": "^9.1.1",
+    "eslint-plugin-react": "^7.27.1",
+    "typescript": "^4.5.2"
+  },
+  "resolutions": {
+    "styled-components": "^5"
+  }
+}

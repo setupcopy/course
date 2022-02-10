@@ -1,0 +1,18 @@
+.paper {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form {
+  margin-top: 70px;
+}
+.lable {
+  font-size: 24px;
+}
+.span {
+  color: red;
+}
+.Box {
+  padding-top: 20px;
+}
